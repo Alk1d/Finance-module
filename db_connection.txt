@@ -1,0 +1,4 @@
+QPSQL
+personal_finance
+postgres
+247725
